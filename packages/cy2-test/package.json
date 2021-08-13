@@ -1,0 +1,12 @@
+{
+  "name": "cy2-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run -T cy2 open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
